@@ -1,0 +1,72 @@
+[
+  {
+    "coffee_id": "1",
+    "coffee_title": "Caffè Latte",
+    "coffee_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/latte,coffee?lock=1",
+    "coffee_poster": "https://loremflickr.com/800/500/latte,coffee?lock=1"
+  },
+  {
+    "coffee_id": "2",
+    "coffee_title": "Cappuccino",
+    "coffee_detail": "Espresso with steamed milk, topped with a deep layer of foam.",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/cappuccino,coffee?lock=2",
+    "coffee_poster": "https://loremflickr.com/800/500/cappuccino,coffee?lock=2"
+  },
+  {
+    "coffee_id": "3",
+    "coffee_title": "Caffè Mocha",
+    "coffee_detail": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/mocha,coffee?lock=3",
+    "coffee_poster": "https://loremflickr.com/800/500/mocha,coffee?lock=3"
+  },
+  {
+    "coffee_id": "4",
+    "coffee_title": "Caramel Macchiato",
+    "coffee_detail": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summers day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; its then topped with our proprietary buttery caramel sauce. Sweet!",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/caramel,macchiato?lock=4",
+    "coffee_poster": "https://loremflickr.com/800/500/caramel,macchiato?lock=4"
+  },
+  {
+    "coffee_id": "5",
+    "coffee_title": "Vanilla Sweet Cream Cold Brew",
+    "coffee_detail": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/coldbrew,cream?lock=5",
+    "coffee_poster": "https://loremflickr.com/800/500/coldbrew,cream?lock=5"
+  },
+  {
+    "coffee_id": "6",
+    "coffee_title": "Cold Brew",
+    "coffee_detail": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks® Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process.",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/coldbrew,coffee?lock=6",
+    "coffee_poster": "https://loremflickr.com/800/500/coldbrew,coffee?lock=6"
+  },
+  {
+    "coffee_id": "7",
+    "coffee_title": "Mango Passion Frappuccino",
+    "coffee_detail": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/mango,frappe?lock=7",
+    "coffee_poster": "https://loremflickr.com/800/500/mango,frappe?lock=7"
+  },
+  {
+    "coffee_id": "8",
+    "coffee_title": "Raspberry Currant Frappuccino",
+    "coffee_detail": "Made with freshly brewed Teavana® tea, blended juice and ice.",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/raspberry,frappe?lock=8",
+    "coffee_poster": "https://loremflickr.com/800/500/raspberry,frappe?lock=8"
+  },
+  {
+    "coffee_id": "9",
+    "coffee_title": "Coffee Frappuccino",
+    "coffee_detail": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/frappuccino,coffee?lock=9",
+    "coffee_poster": "https://loremflickr.com/800/500/frappuccino,coffee?lock=9"
+  },
+  {
+    "coffee_id": "10",
+    "coffee_title": "Mocha Frappuccino",
+    "coffee_detail": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
+    "coffee_thumbnail": "https://loremflickr.com/200/200/mocha,frappe?lock=10",
+    "coffee_poster": "https://loremflickr.com/800/500/mocha,frappe?lock=10"
+  }
+]
